@@ -1,6 +1,6 @@
 FROM centos:centos6
 
-MAINTAINER VarunMnaik
+MAINTAINER VarunManik
 
 RUN yum -y install httpd
 
